@@ -16,3 +16,8 @@
 ## 2026-11-23 — Portfolio status clarification
 - Clarified that products listed for sale are completed products, and SGE itself remains in development.
 - Updated portfolio status labels and machine-readable registry accordingly.
+
+## 2026-11-23 — Product detail SEO batch
+- Added dedicated product detail pages for the Excel toolkit, Android app, self-hosted edition and CleanSubtitle AI using the supplied sales descriptions.
+- Added portfolio detail links and sitemap entries.
+- Kept prices/status caveats visible and seller pages authoritative.
