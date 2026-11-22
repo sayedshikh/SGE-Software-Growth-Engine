@@ -4,7 +4,7 @@
 
 > SGE is evolving. This public repository is a product and documentation hub—not a claim that every workflow is complete or independently validated.
 
-## What SGE helps you do
+## What SGE helps organize
 
 - **Guided Discovery:** shape research around your business, product, audience, and goals.
 - **Problem monitoring:** review signals from available public sources and feeds.
@@ -29,22 +29,32 @@
 
 SGE is actively developed. The cumulative self-hosted source and its verification reports are maintained separately from this public marketing repository. Public claims are limited to documented and tested capabilities. Browser-level and live-source checks may remain outstanding for individual workflows.
 
-## Website
+## Public website
 
-A static product overview is prepared in `site/` for GitHub Pages deployment. Pages deployment workflow is configured; GitHub Pages must be enabled in repository settings with **GitHub Actions** as the source before the site can be live.
+The GitHub Pages site is deployed and was visually confirmed to load:
+
+**https://sayedshikh.github.io/SGE-Software-Growth-Engine/**
+
+The site includes the product overview, workflow boundaries, illustrative use cases and FAQ. It is a static information site, not the hosted application.
 
 ## Explore
 
+- [Website](https://sayedshikh.github.io/SGE-Software-Growth-Engine/)
+- [Product page](https://sayedshikh.github.io/SGE-Software-Growth-Engine/product.html)
+- [Workflow boundaries](https://sayedshikh.github.io/SGE-Software-Growth-Engine/workflow.html)
+- [Use cases](https://sayedshikh.github.io/SGE-Software-Growth-Engine/use-cases.html)
+- [FAQ](https://sayedshikh.github.io/SGE-Software-Growth-Engine/faq.html)
 - [Product overview](docs/product-overview.md)
 - [Workflow and boundaries](docs/workflow.md)
 - [Verification and limitations](docs/verification.md)
 - [Roadmap](docs/roadmap.md)
 - [Privacy and data handling notes](docs/privacy.md)
 - [Marketing audit checklist](docs/repository-marketing-audit.md)
+- [Website growth batch notes](docs/website-growth-batch-1.md)
 
 ## Updates
 
-See [CHANGELOG.md](CHANGELOG.md). This repository is intended to publish product information, documentation, safe demonstrations and selected public artifacts. It does not expose the commercial application's complete source code.
+See [CHANGELOG.md](CHANGELOG.md). This repository publishes product information, documentation, safe demonstrations and selected public artifacts. It does not expose the commercial application's complete source code.
 
 ## Contact / feedback
 
