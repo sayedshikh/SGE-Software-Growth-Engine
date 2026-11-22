@@ -86,6 +86,7 @@ Documentation and marketing assets in this repository are released under [CC BY 
 - CleanSubtitle AI — commercial listing exists; current release/package readiness requires verification.
 
 ## Distribution
+- [Distribution execution tracker](https://sayedshikh.github.io/SGE-Software-Growth-Engine/distribution-execution-tracker.html)
 - [Copy-ready Distribution Copy Kit](https://sayedshikh.github.io/SGE-Software-Growth-Engine/distribution-copy-kit.html)
 - [Distribution opportunity tracker](https://sayedshikh.github.io/SGE-Software-Growth-Engine/distribution-opportunities.html)
 - [Software listing preparation playbook](https://sayedshikh.github.io/SGE-Software-Growth-Engine/software-listing-preparation.html)
