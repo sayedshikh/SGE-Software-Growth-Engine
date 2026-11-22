@@ -39,6 +39,11 @@ The site includes the product overview, workflow boundaries, illustrative use ca
 
 ## Explore
 
+- [Product details — Excel](https://sayedshikh.github.io/SGE-Software-Growth-Engine/freelance-command-center-excel.html)
+- [Product details — Android](https://sayedshikh.github.io/SGE-Software-Growth-Engine/freelance-command-center-android.html)
+- [Product details — Self-Hosted](https://sayedshikh.github.io/SGE-Software-Growth-Engine/freelance-command-center-self-hosted.html)
+- [Product details — CleanSubtitle AI](https://sayedshikh.github.io/SGE-Software-Growth-Engine/cleansubtitle-ai.html)
+
 - [Website](https://sayedshikh.github.io/SGE-Software-Growth-Engine/)
 - [Software portfolio — products for sale, free trial and projects in development](https://sayedshikh.github.io/SGE-Software-Growth-Engine/portfolio.html)\n- [Product page](https://sayedshikh.github.io/SGE-Software-Growth-Engine/product.html)
 - [Workflow boundaries](https://sayedshikh.github.io/SGE-Software-Growth-Engine/workflow.html)
