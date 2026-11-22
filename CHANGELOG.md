@@ -26,3 +26,8 @@
 - Added a dedicated public inquiry page with GitHub feedback and marketplace support routes.
 - Added contact links to homepage and portfolio navigation.
 - Clarified that public GitHub issues must not contain private information and marketplace support handles orders/refunds.
+
+## 2026-11-23 — Problem-solution SEO content batch
+- Added four problem-focused guides for spreadsheet-based freelance operations, Android mobile freelance management, self-hosted freelance operations and subtitle cleanup.
+- Added internal product and seller links, practical guidance, FAQ content and explicit scope/claim caveats.
+- Added all four pages to the sitemap.
