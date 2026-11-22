@@ -40,7 +40,7 @@ The site includes the product overview, workflow boundaries, illustrative use ca
 ## Explore
 
 - [Website](https://sayedshikh.github.io/SGE-Software-Growth-Engine/)
-- [Product page](https://sayedshikh.github.io/SGE-Software-Growth-Engine/product.html)
+- [Software portfolio — products for sale, free trial and projects in development](https://sayedshikh.github.io/SGE-Software-Growth-Engine/portfolio.html)\n- [Product page](https://sayedshikh.github.io/SGE-Software-Growth-Engine/product.html)
 - [Workflow boundaries](https://sayedshikh.github.io/SGE-Software-Growth-Engine/workflow.html)
 - [Use cases](https://sayedshikh.github.io/SGE-Software-Growth-Engine/use-cases.html)
 - [FAQ](https://sayedshikh.github.io/SGE-Software-Growth-Engine/faq.html)
