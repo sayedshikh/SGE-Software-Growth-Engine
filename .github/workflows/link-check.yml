@@ -1,0 +1,32 @@
+name: Documentation link check
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check markdown links (basic local links)
+        shell: bash
+        run: |
+          set -e
+          python - <<'PY'
+          import pathlib, re, sys
+          root=pathlib.Path('.')
+          bad=[]
+          for md in root.rglob('*.md'):
+            if '.git' in md.parts: continue
+            text=md.read_text(encoding='utf-8')
+            for target in re.findall(r'\]\(([^)]+)\)', text):
+              if target.startswith(('http://','https://','#','mailto:')): continue
+              path=target.split('#')[0]
+              if path and not (md.parent/path).exists(): bad.append(f'{md}: {target}')
+          if bad:
+            print('\n'.join(bad)); sys.exit(1)
+          print('Local Markdown links: PASS')
+          PY
