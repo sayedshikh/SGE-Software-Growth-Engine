@@ -21,3 +21,8 @@
 - Added dedicated product detail pages for the Excel toolkit, Android app, self-hosted edition and CleanSubtitle AI using the supplied sales descriptions.
 - Added portfolio detail links and sitemap entries.
 - Kept prices/status caveats visible and seller pages authoritative.
+
+## 2026-11-23 — Contact channel
+- Added a dedicated public inquiry page with GitHub feedback and marketplace support routes.
+- Added contact links to homepage and portfolio navigation.
+- Clarified that public GitHub issues must not contain private information and marketplace support handles orders/refunds.
