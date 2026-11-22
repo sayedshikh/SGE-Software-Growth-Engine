@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sayedshikh.github.io/SGE-Software-Growth-Engine/sitemap.xml
