@@ -42,3 +42,7 @@
 - Added a browser-side project profitability estimator for fee, time, costs, margin and effective hourly earnings.
 - Added privacy, validation and planning-only caveats; no data submission is wired.
 - Registered the new pages in the sitemap and repository documentation.
+
+## 2026-11-23 — Hourly-rate planning SEO guide
+- Added a practical guide connecting billable time, operating costs, reserve assumptions and project-level economics.
+- Linked the guide to the rate and profitability tools; added the page to the sitemap and Free Tools Hub.
