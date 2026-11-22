@@ -52,3 +52,8 @@
 - Added a software listing preparation playbook and checklist.
 - Linked both resources from the site navigation and documentation; registered in sitemap.
 - No external submissions, paid placements or launch posts were made.
+
+## 2026-11-23 — Expanded development portfolio inventory
+- Corrected the portfolio to include RechnungPilot DE, SubAI Pro, CRM & Automation Center — Enterprise, CRM & Automation Center — Essential, and SGE under development.
+- Clarified that CleanSubtitle AI has a listing but its current release readiness must be verified.
+- Updated distribution and listing preparation guidance to avoid presenting unfinished products as ready.
