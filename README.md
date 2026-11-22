@@ -68,3 +68,9 @@ Open a GitHub issue for public documentation feedback. Do not submit confidentia
 ## License
 
 Documentation and marketing assets in this repository are released under [CC BY 4.0](LICENSE-DOCS) unless otherwise stated. This does **not** grant rights to the SGE commercial application or its source code.
+
+## Problem-solving guides
+- [Freelance tracking when spreadsheets and notes are scattered](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-freelancer-spreadsheets.html)
+- [Manage freelance work from Android](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-freelancer-mobile.html)
+- [Self-hosted freelance management: requirements and responsibilities](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-self-hosted-freelance.html)
+- [Subtitle cleanup while reviewing timing and structure](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-subtitle-cleanup.html)
