@@ -29,6 +29,10 @@
 
 SGE is actively developed. The cumulative self-hosted source and its verification reports are maintained separately from this public marketing repository. Public claims are limited to documented and tested capabilities. Browser-level and live-source checks may remain outstanding for individual workflows.
 
+## Website
+
+A static product overview is prepared in `site/` for GitHub Pages deployment. Pages deployment workflow is configured; GitHub Pages must be enabled in repository settings with **GitHub Actions** as the source before the site can be live.
+
 ## Explore
 
 - [Product overview](docs/product-overview.md)
