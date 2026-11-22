@@ -57,3 +57,8 @@
 - Corrected the portfolio to include RechnungPilot DE, SubAI Pro, CRM & Automation Center — Enterprise, CRM & Automation Center — Essential, and SGE under development.
 - Clarified that CleanSubtitle AI has a listing but its current release readiness must be verified.
 - Updated distribution and listing preparation guidance to avoid presenting unfinished products as ready.
+
+## 2026-11-23 — Distribution copy kit
+- Drafted channel-ready descriptions, positioning, audiences and keyword sets for listed portfolio products.
+- Included links to owner-supplied sales pages and verification caveats for CleanSubtitle AI.
+- Added the kit to the distribution tracker and sitemap.
