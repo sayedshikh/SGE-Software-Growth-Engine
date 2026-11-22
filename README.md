@@ -74,3 +74,9 @@ Documentation and marketing assets in this repository are released under [CC BY 
 - [Manage freelance work from Android](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-freelancer-mobile.html)
 - [Self-hosted freelance management: requirements and responsibilities](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-self-hosted-freelance.html)
 - [Subtitle cleanup while reviewing timing and structure](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-subtitle-cleanup.html)
+
+## Decision guides and free tool
+- [Freelancer tracking tools comparison](https://sayedshikh.github.io/SGE-Software-Growth-Engine/freelancer-tracking-tools-comparison.html)
+- [Excel vs a freelance app](https://sayedshikh.github.io/SGE-Software-Growth-Engine/excel-vs-freelancer-app.html)
+- [Self-hosted vs hosted tools](https://sayedshikh.github.io/SGE-Software-Growth-Engine/self-hosted-vs-hosted-freelancer-tools.html)
+- [Free freelance hourly rate calculator](https://sayedshikh.github.io/SGE-Software-Growth-Engine/free-freelance-hourly-rate-calculator.html)
