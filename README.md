@@ -27,7 +27,7 @@
 
 ## Product status
 
-SGE is actively developed. The cumulative self-hosted source and its verification reports are maintained separately from this public marketing repository. Public claims are limited to documented and tested capabilities. Browser-level and live-source checks may remain outstanding for individual workflows.
+The products currently listed for sale in the portfolio are completed products, according to the owner. Software Growth Engine (SGE) itself is actively developed. The cumulative self-hosted source and its verification reports are maintained separately from this public marketing repository. Public claims are limited to documented and tested capabilities. Browser-level and live-source checks may remain outstanding for individual workflows.
 
 ## Public website
 
