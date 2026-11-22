@@ -77,6 +77,10 @@ Documentation and marketing assets in this repository are released under [CC BY 
 - [Self-hosted freelance management: requirements and responsibilities](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-self-hosted-freelance.html)
 - [Subtitle cleanup while reviewing timing and structure](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-subtitle-cleanup.html)
 
+## Distribution
+- [Distribution opportunity tracker](https://sayedshikh.github.io/SGE-Software-Growth-Engine/distribution-opportunities.html)
+- [Software listing preparation playbook](https://sayedshikh.github.io/SGE-Software-Growth-Engine/software-listing-preparation.html)
+
 ## Free tools hub
 - [Freelance hourly-rate planning guide](https://sayedshikh.github.io/SGE-Software-Growth-Engine/freelance-hourly-rate-planning-guide.html)
 - [Free Tools Hub](https://sayedshikh.github.io/SGE-Software-Growth-Engine/free-tools.html)
