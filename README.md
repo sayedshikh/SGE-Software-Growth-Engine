@@ -77,6 +77,14 @@ Documentation and marketing assets in this repository are released under [CC BY 
 - [Self-hosted freelance management: requirements and responsibilities](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-self-hosted-freelance.html)
 - [Subtitle cleanup while reviewing timing and structure](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-subtitle-cleanup.html)
 
+## Development product portfolio (not yet ready for commercial listings)
+- RechnungPilot DE — German-first self-hosted accounts-payable/invoice workflow product; active development.
+- SubAI Pro — desktop subtitle translation, localization, synchronization and quality studio; iterative development.
+- CRM & Automation Center — Enterprise — self-hosted business/CRM/operations platform; active development.
+- CRM & Automation Center — Essential — distinct early-stage simpler CRM for freelancers and small businesses.
+- Software Growth Engine (SGE) — guided research, opportunity and campaign workflow; active development.
+- CleanSubtitle AI — commercial listing exists; current release/package readiness requires verification.
+
 ## Distribution
 - [Distribution opportunity tracker](https://sayedshikh.github.io/SGE-Software-Growth-Engine/distribution-opportunities.html)
 - [Software listing preparation playbook](https://sayedshikh.github.io/SGE-Software-Growth-Engine/software-listing-preparation.html)
