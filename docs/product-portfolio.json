@@ -3,11 +3,11 @@
   "updated": "2026-11-23",
   "currency_note": "Prices are displayed as provided in screenshots or prior owner-supplied information and are not live-verified.",
   "products": [
-    {"id":"freelance-command-center-excel","name":"The Freelance Command Center — Excel Edition","status":"listed_for_sale","listed_price":"USD 9.99","category":"spreadsheet_toolkit","sales_urls":["https://saydelshikh.gumroad.com/l/freelancer-starter-kit","https://payhip.com/b/NYrSn"]},
-    {"id":"freelance-command-center-android","name":"The Freelance Command Center — Android App","status":"listed_for_sale","listed_price":"USD 19.99","category":"android_app","sales_urls":["https://saydelshikh.gumroad.com/l/freelance-command-center-android","https://payhip.com/b/9qw0m"]},
-    {"id":"freelance-command-center-self-hosted","name":"The Freelance Command Center — Self-Hosted v1.0.1","status":"listed_for_sale","listed_price":"USD 29","category":"self_hosted_software","sales_urls":["https://saydelshikh.gumroad.com/l/FreelanceCommandcenter","https://payhip.com/b/aOIVr"]},
-    {"id":"cleansubtitle-ai","name":"CleanSubtitle AI","status":"listed_for_sale","listed_price":"USD 49 (shown in supplied screenshot; not live-verified)","category":"subtitle_software","sales_urls":["https://saydelshikh.gumroad.com/l/cleansubtitle-ai"]},
-    {"id":"freelance-command-center-web-trial","name":"The Freelance Command Center — Web Early Access","status":"free_trial","category":"web_app","trial_url":"https://the-freelance.hatchable.site"},
-    {"id":"software-growth-engine","name":"Software Growth Engine","status":"in_development","category":"growth_workflow_software","project_url":"https://github.com/sayedshikh/SGE-Software-Growth-Engine"}
+    {"id":"freelance-command-center-excel","name":"The Freelance Command Center — Excel Edition","status":"completed_listed_for_sale","listed_price":"USD 9.99","category":"spreadsheet_toolkit","sales_urls":["https://saydelshikh.gumroad.com/l/freelancer-starter-kit","https://payhip.com/b/NYrSn"]},
+    {"id":"freelance-command-center-android","name":"The Freelance Command Center — Android App","status":"completed_listed_for_sale","listed_price":"USD 19.99","category":"android_app","sales_urls":["https://saydelshikh.gumroad.com/l/freelance-command-center-android","https://payhip.com/b/9qw0m"]},
+    {"id":"freelance-command-center-self-hosted","name":"The Freelance Command Center — Self-Hosted v1.0.1","status":"completed_listed_for_sale","listed_price":"USD 29","category":"self_hosted_software","sales_urls":["https://saydelshikh.gumroad.com/l/FreelanceCommandcenter","https://payhip.com/b/aOIVr"]},
+    {"id":"cleansubtitle-ai","name":"CleanSubtitle AI","status":"completed_listed_for_sale","listed_price":"USD 49 (shown in supplied screenshot; not live-verified)","category":"subtitle_software","sales_urls":["https://saydelshikh.gumroad.com/l/cleansubtitle-ai"]},
+    {"id":"freelance-command-center-web-trial","name":"The Freelance Command Center — Web Early Access","status":"free_trial_available","category":"web_app","trial_url":"https://the-freelance.hatchable.site"},
+    {"id":"software-growth-engine","name":"Software Growth Engine","status":"in_development_not_finished","category":"growth_workflow_software","project_url":"https://github.com/sayedshikh/SGE-Software-Growth-Engine"}
   ]
 }
