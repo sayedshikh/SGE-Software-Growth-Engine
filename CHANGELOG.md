@@ -10,3 +10,5 @@
 - Added sitemap.xml and robots.txt for basic discoverability.
 - Updated README with live Pages links and corrected deployment status.
 - Added website batch notes; all use cases are illustrative and maturity limitations remain explicit.
+
+## 2026-11-23 — Verified owner-supplied portfolio structure\n- Added a portfolio page separating products listed for sale, a free web trial and SGE in development.\n- Added a machine-readable portfolio registry as a central data inventory.\n- Linked portfolio from the homepage and README.\n- Recorded price and availability caveats; seller pages remain authoritative.\n
