@@ -1,0 +1,9 @@
+.env
+.env.*
+*.sqlite
+*.db
+*.pem
+*.key
+secrets*
+customer-data/
+private-data/
