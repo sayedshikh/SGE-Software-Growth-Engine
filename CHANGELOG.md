@@ -31,3 +31,8 @@
 - Added four problem-focused guides for spreadsheet-based freelance operations, Android mobile freelance management, self-hosted freelance operations and subtitle cleanup.
 - Added internal product and seller links, practical guidance, FAQ content and explicit scope/claim caveats.
 - Added all four pages to the sitemap.
+
+## 2026-11-23 — Comparison content and free utility
+- Added three decision-oriented comparison guides covering tracking tool types, spreadsheet vs mobile app and self-hosted vs hosted software.
+- Added a free browser-based freelance hourly rate planning calculator; input values remain client-side and no submission is wired.
+- Added all four pages to the sitemap.
