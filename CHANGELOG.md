@@ -36,3 +36,9 @@
 - Added three decision-oriented comparison guides covering tracking tool types, spreadsheet vs mobile app and self-hosted vs hosted software.
 - Added a free browser-based freelance hourly rate planning calculator; input values remain client-side and no submission is wired.
 - Added all four pages to the sitemap.
+
+## 2026-11-23 — Free Tools Hub and profitability estimator
+- Added a central Free Tools Hub linking planning utilities and decision guides.
+- Added a browser-side project profitability estimator for fee, time, costs, margin and effective hourly earnings.
+- Added privacy, validation and planning-only caveats; no data submission is wired.
+- Registered the new pages in the sitemap and repository documentation.
