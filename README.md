@@ -78,6 +78,7 @@ Documentation and marketing assets in this repository are released under [CC BY 
 - [Subtitle cleanup while reviewing timing and structure](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-subtitle-cleanup.html)
 
 ## Free tools hub
+- [Freelance hourly-rate planning guide](https://sayedshikh.github.io/SGE-Software-Growth-Engine/freelance-hourly-rate-planning-guide.html)
 - [Free Tools Hub](https://sayedshikh.github.io/SGE-Software-Growth-Engine/free-tools.html)
 - [Project profitability estimator](https://sayedshikh.github.io/SGE-Software-Growth-Engine/free-project-profitability-calculator.html)
 
