@@ -46,3 +46,9 @@
 ## 2026-11-23 — Hourly-rate planning SEO guide
 - Added a practical guide connecting billable time, operating costs, reserve assumptions and project-level economics.
 - Linked the guide to the rate and profitability tools; added the page to the sitemap and Free Tools Hub.
+
+## 2026-11-23 — Free-first distribution shortlist
+- Added a product-fit distribution opportunity tracker with channel caveats and prioritization.
+- Added a software listing preparation playbook and checklist.
+- Linked both resources from the site navigation and documentation; registered in sitemap.
+- No external submissions, paid placements or launch posts were made.
