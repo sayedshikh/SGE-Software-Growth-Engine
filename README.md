@@ -45,7 +45,9 @@ The site includes the product overview, workflow boundaries, illustrative use ca
 - [Product details — CleanSubtitle AI](https://sayedshikh.github.io/SGE-Software-Growth-Engine/cleansubtitle-ai.html)
 
 - [Website](https://sayedshikh.github.io/SGE-Software-Growth-Engine/)
-- [Software portfolio — products for sale, free trial and projects in development](https://sayedshikh.github.io/SGE-Software-Growth-Engine/portfolio.html)\n- [Product page](https://sayedshikh.github.io/SGE-Software-Growth-Engine/product.html)
+- [Software portfolio — products for sale, free trial and projects in development](https://sayedshikh.github.io/SGE-Software-Growth-Engine/portfolio.html)
+- [Free Tools Hub](https://sayedshikh.github.io/SGE-Software-Growth-Engine/free-tools.html)
+- [Product page](https://sayedshikh.github.io/SGE-Software-Growth-Engine/product.html)
 - [Workflow boundaries](https://sayedshikh.github.io/SGE-Software-Growth-Engine/workflow.html)
 - [Use cases](https://sayedshikh.github.io/SGE-Software-Growth-Engine/use-cases.html)
 - [FAQ](https://sayedshikh.github.io/SGE-Software-Growth-Engine/faq.html)
@@ -74,6 +76,10 @@ Documentation and marketing assets in this repository are released under [CC BY 
 - [Manage freelance work from Android](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-freelancer-mobile.html)
 - [Self-hosted freelance management: requirements and responsibilities](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-self-hosted-freelance.html)
 - [Subtitle cleanup while reviewing timing and structure](https://sayedshikh.github.io/SGE-Software-Growth-Engine/problem-solving-subtitle-cleanup.html)
+
+## Free tools hub
+- [Free Tools Hub](https://sayedshikh.github.io/SGE-Software-Growth-Engine/free-tools.html)
+- [Project profitability estimator](https://sayedshikh.github.io/SGE-Software-Growth-Engine/free-project-profitability-calculator.html)
 
 ## Decision guides and free tool
 - [Freelancer tracking tools comparison](https://sayedshikh.github.io/SGE-Software-Growth-Engine/freelancer-tracking-tools-comparison.html)
