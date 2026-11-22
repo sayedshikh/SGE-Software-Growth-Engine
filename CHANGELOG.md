@@ -62,3 +62,9 @@
 - Drafted channel-ready descriptions, positioning, audiences and keyword sets for listed portfolio products.
 - Included links to owner-supplied sales pages and verification caveats for CleanSubtitle AI.
 - Added the kit to the distribution tracker and sitemap.
+
+## 2026-11-23 — Distribution execution tracker
+- Created a prioritized execution tracker with platform qualification gates and preparation/submission status definitions.
+- Incorporated official AlternativeTo eligibility guidance, including exclusions for unreleased and simple utility/calculator tools.
+- Distinguished confirmed policy findings from unverified platform submission details.
+- No external submissions or paid actions performed.
