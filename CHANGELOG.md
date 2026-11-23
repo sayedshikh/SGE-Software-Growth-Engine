@@ -72,3 +72,10 @@
 ## 2026-11-23 — AlternativeTo candidate preparation
 - Prepared a submission draft for the Self-Hosted Freelance Command Center with positioning, description, candidate categories/tags, alternatives to investigate, asset checklist and owner-review gates.
 - Status remains draft; no external submission or paid review initiated.
+
+
+## 2026-11-23 — SaaSHub candidate preparation
+- Prepared an owner-review submission draft for Freelance Command Center Self-Hosted with short/long copy, categories, comparison candidates and a manual submission checklist.
+- Incorporated SaaSHub guidance: released products only, English product page, competitor listing, verification and human submission.
+- Added the draft to the distribution tracker, README and sitemap.
+- No submission, account creation or paid action performed.
