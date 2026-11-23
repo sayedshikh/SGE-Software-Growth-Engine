@@ -199,3 +199,10 @@
 - Added localized query builder, session-local source records, starter discovery catalogue, filters and JSON/CSV export.
 - Explicitly distinguishes seed sources from verified research; no live crawling or platform connections claimed.
 - Linked from the auxiliary workbench only; not linked from the public homepage or sitemap.
+
+
+## 2026-11-23 — Read-only live Hacker News signal discovery pilot
+- Added a browser-side connector to public Hacker News Firebase API story lists and item records (Ask, Show, New) with bounded requests.
+- Keyword filtering, match ranking, source/thread links, disposition/notes, and CSV export are included.
+- Connector is read-only and makes no account, comment, posting or messaging actions. Candidate matching is not proof of customer intent.
+- Browser runtime, network/CORS and first-result validation remain pending; linked from auxiliary workbench only.
