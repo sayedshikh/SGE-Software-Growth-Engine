@@ -117,3 +117,8 @@ Documentation and marketing assets in this repository are released under [CC BY 
 ## Content cluster & funnel workspace
 
 - [Content Cluster Authority & Product-to-Problem Funnel Mapper](https://sayedshikh.github.io/SGE-Software-Growth-Engine/content-cluster-funnel.html): map customer problem themes across guides, comparisons, free tools and product pages; track missing stages and export locally. Heuristic worksheet, not live keyword or analytics data.
+
+
+## Search Opportunity Gap Engine
+
+- [Search Opportunity Gap Engine](https://sayedshikh.github.io/SGE-Software-Growth-Engine/search-opportunity-gap-engine.html): record search queries and customer problem signals, source evidence, classification, product fit, missing assets, topic-cluster and distribution connections, impact/confidence/effort, next actions, and session-local CSV/JSON exports. This is a manually populated worksheet—not live keyword data, crawler, ranking, analytics or demand validation.
