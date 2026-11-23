@@ -86,7 +86,7 @@ Documentation and marketing assets in this repository are released under [CC BY 
 - CleanSubtitle AI — commercial listing exists; current release/package readiness requires verification.
 
 ## Distribution
-- [SaaSHub submission preparation](https://sayedshikh.github.io/SGE-Software-Growth-Engine/saashub-self-hosted-preparation.html) — owner-review draft, not submitted.\n- [AlternativeTo candidate preparation](https://sayedshikh.github.io/SGE-Software-Growth-Engine/alternativeto-self-hosted-preparation.html) — owner-review draft, not submitted.
+- [Product-to-channel fit matrix](https://sayedshikh.github.io/SGE-Software-Growth-Engine/product-channel-fit.html) — channel priorities by product and readiness gates.\n- [SaaSHub submission preparation](https://sayedshikh.github.io/SGE-Software-Growth-Engine/saashub-self-hosted-preparation.html) — owner-review draft, not submitted.\n- [AlternativeTo candidate preparation](https://sayedshikh.github.io/SGE-Software-Growth-Engine/alternativeto-self-hosted-preparation.html) — owner-review draft, not submitted.
 - [Distribution execution tracker](https://sayedshikh.github.io/SGE-Software-Growth-Engine/distribution-execution-tracker.html)
 - [Copy-ready Distribution Copy Kit](https://sayedshikh.github.io/SGE-Software-Growth-Engine/distribution-copy-kit.html)
 - [Distribution opportunity tracker](https://sayedshikh.github.io/SGE-Software-Growth-Engine/distribution-opportunities.html)
