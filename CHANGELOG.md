@@ -108,3 +108,12 @@
 - Added CSV export and reset controls; no remote storage or experiment execution automation is wired.
 - Integrated the page into the distribution tracker, README and sitemap.
 - Prioritization score is explicitly heuristic and not a revenue forecast.
+
+
+## 2026-11-23 — Growth intelligence, internal search and SEO discoverability
+- Added a growth opportunity worksheet with evidence and fit dimensions, risk review, heuristic score, statuses and CSV export.
+- Added lightweight client-side website search with category filtering and curated keyword index.
+- Added a search discoverability guide covering crawlability, internal links, technical SEO, structured data, measurement and owner-managed webmaster tools.
+- Integrated search entry points into homepage navigation and homepage content; added WebSite SearchAction structured data.
+- Registered new pages in sitemap and README; linked opportunity system into distribution tracker.
+- Search Console and Webmaster Tools are not connected; browser-level/live crawl validation remains outstanding.
