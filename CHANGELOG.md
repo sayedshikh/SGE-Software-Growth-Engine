@@ -192,3 +192,10 @@
 - Added decision workflow, risk flags, evidence confidence, product/role mapping, copy actions and JSON/CSV exports.
 - Documented automation maturity gates and account/API policy constraints. No accounts, crawling, posting, messaging or automated follow-ups are connected.
 - Linked the prototype from the auxiliary Research Workbench only; it is not in the homepage or sitemap.
+
+
+## 2026-11-23 — Global Source Discovery & Coverage Engine prototype
+- Added a structured source inventory with source type, region, country, language, access method, signal coverage, query strategy, platform policy, access limits, costs, reliability, evidence URLs, freshness dates and coverage status.
+- Added localized query builder, session-local source records, starter discovery catalogue, filters and JSON/CSV export.
+- Explicitly distinguishes seed sources from verified research; no live crawling or platform connections claimed.
+- Linked from the auxiliary workbench only; not linked from the public homepage or sitemap.
