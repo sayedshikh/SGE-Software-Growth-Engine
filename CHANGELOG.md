@@ -159,3 +159,9 @@
 - Added an evidence-aware search/customer problem opportunity capture workspace with evidence classification, query capture, product/audience fit, missing assets, cluster/distribution/experiment links, impact/confidence/effort scoring and next actions.
 - Added session-local backlog, CSV and JSON export; no live search data, crawling, analytics or rankings are claimed.
 - Integrated homepage navigation, sitemap and README.
+
+
+## 2026-11-23 — Global Marketing & Distribution Radar
+- Added a locally managed registry covering software directories, launches, review platforms, communities, publishers, PR, affiliate and partnership opportunities.
+- Added opportunity briefs, source provenance, fit, rules, costs, risks, priority, status, follow-up and outcome fields, filters and CSV/JSON export.
+- Integrated homepage, sitemap and README; no external submission or message sending is connected.
