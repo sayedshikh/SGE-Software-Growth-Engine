@@ -112,3 +112,8 @@ Documentation and marketing assets in this repository are released under [CC BY 
 - [Excel vs a freelance app](https://sayedshikh.github.io/SGE-Software-Growth-Engine/excel-vs-freelancer-app.html)
 - [Self-hosted vs hosted tools](https://sayedshikh.github.io/SGE-Software-Growth-Engine/self-hosted-vs-hosted-freelancer-tools.html)
 - [Free freelance hourly rate calculator](https://sayedshikh.github.io/SGE-Software-Growth-Engine/free-freelance-hourly-rate-calculator.html)
+
+
+## Content cluster & funnel workspace
+
+- [Content Cluster Authority & Product-to-Problem Funnel Mapper](https://sayedshikh.github.io/SGE-Software-Growth-Engine/content-cluster-funnel.html): map customer problem themes across guides, comparisons, free tools and product pages; track missing stages and export locally. Heuristic worksheet, not live keyword or analytics data.
