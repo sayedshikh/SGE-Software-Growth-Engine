@@ -153,3 +153,9 @@
 - Added a local content-cluster worksheet connecting problem, guide, comparison, free tool and product page stages.
 - Added gap coverage summaries, evidence and notes fields, priorities, session-only data and CSV export.
 - Integrated with homepage, Content Intelligence, SEO Operations, internal link graph, sitemap and README. No live search-demand or crawl claims.
+
+
+## 2026-11-23 — Search Opportunity Gap Engine
+- Added an evidence-aware search/customer problem opportunity capture workspace with evidence classification, query capture, product/audience fit, missing assets, cluster/distribution/experiment links, impact/confidence/effort scoring and next actions.
+- Added session-local backlog, CSV and JSON export; no live search data, crawling, analytics or rankings are claimed.
+- Integrated homepage navigation, sitemap and README.
