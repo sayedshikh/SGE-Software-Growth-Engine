@@ -1,0 +1,8 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Pages Deployment Check — SGE</title><link rel="stylesheet" href="../styles.css"></head><body><header class="nav"><a class="brand" href="./">SGE<span>Research workspace</span></a><nav><a href="./">Workbench</a></nav></header><main class="content"><h1>GitHub Pages deployment check</h1><p>This page checks the expected project-pages path and static sibling files in the browser. It does not verify server deployment configuration or live-source API connectivity.</p><p><strong>Expected base:</strong> <code>/SGE-Software-Growth-Engine/</code></p><section class="panel"><h2>Path checks</h2><ul id="checks"></ul></section><p><a href="live-public-signal-discovery.html">Open Live Public Signal Discovery</a></p><p><a href="index.html">Back to Workbench</a></p></main><script>
+const base='/SGE-Software-Growth-Engine/research-workbench/';
+const tests=[['Workbench index','index.html'],['Live pilot','live-public-signal-discovery.html'],['Source catalogue','global-source-discovery.html']];
+const list=document.getElementById('checks');
+tests.forEach(([name,path])=>{const li=document.createElement('li');const a=document.createElement('a');a.href=base+path;a.textContent=name+' — open';a.target='_self';li.append(a);list.append(li)});
+const p=document.createElement('p');p.textContent='Current path: '+location.pathname+' | Expected prefix: /SGE-Software-Growth-Engine/';list.append(p);
+</script></body></html>
