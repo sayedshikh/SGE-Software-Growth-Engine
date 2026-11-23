@@ -117,3 +117,10 @@
 - Integrated search entry points into homepage navigation and homepage content; added WebSite SearchAction structured data.
 - Registered new pages in sitemap and README; linked opportunity system into distribution tracker.
 - Search Console and Webmaster Tools are not connected; browser-level/live crawl validation remains outstanding.
+
+
+## 2026-11-23 — Search relevance & content intelligence
+- Replaced simple website search with relevance-ranked matching, synonym support, descriptions and query-parameter handling.
+- Added local content-intelligence worksheet for topics, intent, source evidence, content gaps, formats and internal-link relationships with CSV export.
+- Registered page in sitemap and linked it from search/tracker.
+- Search Console, analytics and live browser testing remain unconnected/unverified.
