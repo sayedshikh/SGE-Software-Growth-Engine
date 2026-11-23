@@ -124,3 +124,10 @@
 - Added local content-intelligence worksheet for topics, intent, source evidence, content gaps, formats and internal-link relationships with CSV export.
 - Registered page in sitemap and linked it from search/tracker.
 - Search Console, analytics and live browser testing remain unconnected/unverified.
+
+
+## 2026-11-23 — Enterprise-style SEO operations workspace
+- Added audit ledger with evidence, dimension, severity, impact, confidence, effort, status, owner and next action.
+- Added advisory prioritization, CSV export and audit sequence with validation gates.
+- Integrated into homepage navigation, SEO guide, tracker, README and sitemap.
+- No live crawl, Search Console connection or browser acceptance claimed.
