@@ -131,3 +131,11 @@
 - Added advisory prioritization, CSV export and audit sequence with validation gates.
 - Integrated into homepage navigation, SEO guide, tracker, README and sitemap.
 - No live crawl, Search Console connection or browser acceptance claimed.
+
+
+## 2026-11-23 — Public Discovery & Repository Growth Engine
+- Added a repository showcase readiness workspace with commercial-source/IP safety gates.
+- Added channel playbooks and conditional eligibility gates for GitHub, communities, Show HN, awesome-selfhosted, directories, technical content and launch platforms.
+- Added a browser-session opportunity register with CSV export and a 12-item self-review checklist.
+- Integrated the workspace into the homepage, distribution execution tracker, sitemap and README.
+- No external submissions, source code exposure, accounts, posting or paid actions performed.
