@@ -68,3 +68,7 @@
 - Incorporated official AlternativeTo eligibility guidance, including exclusions for unreleased and simple utility/calculator tools.
 - Distinguished confirmed policy findings from unverified platform submission details.
 - No external submissions or paid actions performed.
+
+## 2026-11-23 — AlternativeTo candidate preparation
+- Prepared a submission draft for the Self-Hosted Freelance Command Center with positioning, description, candidate categories/tags, alternatives to investigate, asset checklist and owner-review gates.
+- Status remains draft; no external submission or paid review initiated.
