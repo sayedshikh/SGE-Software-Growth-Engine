@@ -165,3 +165,10 @@
 - Added a locally managed registry covering software directories, launches, review platforms, communities, publishers, PR, affiliate and partnership opportunities.
 - Added opportunity briefs, source provenance, fit, rules, costs, risks, priority, status, follow-up and outcome fields, filters and CSV/JSON export.
 - Integrated homepage, sitemap and README; no external submission or message sending is connected.
+
+
+## 2026-11-23 — External-first Signal Intelligence Engine
+- Added a manual evidence ledger for external public signals aligned to portfolio products and customer/referral roles.
+- Tracks source provenance, actor/relationship type, signal categories, evidence classification, recurrence, reliability, urgency, commercial relevance, product fit, influence, next actions, reply drafts and content/distribution/experiment links.
+- Added session-local records, heuristic scoring, CSV/JSON export and delete/clear controls; no live crawling, scraping, messaging or submission is connected.
+- Integrated homepage, sitemap and README.
