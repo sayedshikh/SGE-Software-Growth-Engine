@@ -93,3 +93,11 @@
 - Added version/claim controls and a campaign-record template to reduce stale or unsupported content.
 - Linked the asset system from the execution tracker, README and sitemap.
 - No external publishing, submissions or paid actions performed.
+
+
+## 2026-11-23 — Measurement & attribution system
+- Added a campaign measurement framework separating reach, visits, engagement, leads and evidenced purchases.
+- Defined campaign records, UTM conventions, KPI formulas and attribution caveats.
+- Added a browser-local campaign worksheet with CSV export; no analytics connection or remote storage is wired.
+- Registered and linked the page from the distribution tracker, README and sitemap.
+- No external campaign activity or analytics data was connected.
