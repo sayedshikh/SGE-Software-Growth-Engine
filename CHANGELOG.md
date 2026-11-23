@@ -206,3 +206,8 @@
 - Keyword filtering, match ranking, source/thread links, disposition/notes, and CSV export are included.
 - Connector is read-only and makes no account, comment, posting or messaging actions. Candidate matching is not proof of customer intent.
 - Browser runtime, network/CORS and first-result validation remain pending; linked from auxiliary workbench only.
+
+## 2026-11-23 — GitHub Pages 404 diagnostic
+- Added a browser-side deployment path diagnostic page for the research workbench.
+- Linked the diagnostic from the workbench index; this commit also triggers the existing Pages workflow through `site/**` changes.
+- Diagnostic does not confirm server-side Pages settings or deployment status; runtime validation remains pending.
