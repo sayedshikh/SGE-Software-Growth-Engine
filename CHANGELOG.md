@@ -179,3 +179,9 @@
 - Removed research-workbench tool links from the main homepage hero/navigation surface.
 - Excluded Search Opportunity Gap, Global Distribution Radar, External Signal Intelligence and Content Cluster Funnel from sitemap and added noindex/nofollow to these auxiliary worksheets.
 - Clarified that URL separation and crawler directives do not provide access control; GitHub Pages remains public and must not host sensitive data.
+
+
+## 2026-11-23 — Global Distribution Radar geographic coverage expansion
+- Added a global coverage framework spanning Africa, Asia, Europe, the Americas, Oceania and cross-border channels.
+- Added language-market research prompts, broader channel taxonomy, country-level evidence capture and coverage status stages.
+- Clarified that the framework is designed to reduce geographic blind spots, not to claim exhaustive or live worldwide discovery.
