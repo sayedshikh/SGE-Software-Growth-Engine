@@ -139,3 +139,11 @@
 - Added a browser-session opportunity register with CSV export and a 12-item self-review checklist.
 - Integrated the workspace into the homepage, distribution execution tracker, sitemap and README.
 - No external submissions, source code exposure, accounts, posting or paid actions performed.
+
+
+## 2026-11-23 — Site Intelligence & Internal Link Graph
+- Added sitemap-derived page inventory and a local link graph analysis workspace.
+- Supports user-entered or CSV-imported outgoing links, seed designation, orphan-risk analysis, reachability and unknown-target checks.
+- Export graph inventory to CSV.
+- Linked from homepage, SEO Operations and Content Intelligence; registered in sitemap and README.
+- Explicitly not a live crawler; results depend on supplied link data.
