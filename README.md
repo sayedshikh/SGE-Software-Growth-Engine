@@ -122,3 +122,8 @@ Documentation and marketing assets in this repository are released under [CC BY 
 ## Search Opportunity Gap Engine
 
 - [Search Opportunity Gap Engine](https://sayedshikh.github.io/SGE-Software-Growth-Engine/search-opportunity-gap-engine.html): record search queries and customer problem signals, source evidence, classification, product fit, missing assets, topic-cluster and distribution connections, impact/confidence/effort, next actions, and session-local CSV/JSON exports. This is a manually populated worksheet—not live keyword data, crawler, ranking, analytics or demand validation.
+
+
+## Global Marketing & Distribution Opportunity Radar
+
+- [Global Distribution Radar](https://sayedshikh.github.io/SGE-Software-Growth-Engine/global-distribution-radar.html): session-local registry for software directories, launch platforms, reviewers, publishers, communities, partnerships, affiliates, PR and other channels. Records research provenance, audience/product fit, eligibility, cost, risk, priority, status, follow-up and outcomes. No submission, messaging or crawler automation is connected.
