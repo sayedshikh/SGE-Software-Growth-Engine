@@ -86,3 +86,10 @@
 - Added a lightweight experiment protocol for tracking actual outcomes rather than forecasts.
 - Registered and linked the matrix from the distribution tracker and README.
 - No submissions or external posting performed.
+
+
+## 2026-11-23 — Distribution campaign asset system
+- Created a reusable product-specific campaign bundle standard covering product truth, copy, media, channel copy, attribution and approval gates.
+- Added version/claim controls and a campaign-record template to reduce stale or unsupported content.
+- Linked the asset system from the execution tracker, README and sitemap.
+- No external publishing, submissions or paid actions performed.
