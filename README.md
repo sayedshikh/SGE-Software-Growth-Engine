@@ -86,6 +86,7 @@ Documentation and marketing assets in this repository are released under [CC BY 
 - CleanSubtitle AI — commercial listing exists; current release/package readiness requires verification.
 
 ## Distribution
+- [Growth Experiment & Optimization Engine](https://sayedshikh.github.io/SGE-Software-Growth-Engine/growth-experiments.html) — prioritize, document, score and decide experiments with local CSV export.
 - [Measurement & attribution worksheet](https://sayedshikh.github.io/SGE-Software-Growth-Engine/measurement-attribution.html) — campaign KPI definitions, evidence-aware reporting and local CSV worksheet.
 - [Distribution campaign asset system](https://sayedshikh.github.io/SGE-Software-Growth-Engine/distribution-campaign-assets.html) — reusable campaign bundle and tracking standards.
 - [Product-to-channel fit matrix](https://sayedshikh.github.io/SGE-Software-Growth-Engine/product-channel-fit.html) — channel priorities by product and readiness gates.
