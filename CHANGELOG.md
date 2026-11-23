@@ -79,3 +79,10 @@
 - Incorporated SaaSHub guidance: released products only, English product page, competitor listing, verification and human submission.
 - Added the draft to the distribution tracker, README and sitemap.
 - No submission, account creation or paid action performed.
+
+
+## 2026-11-23 — Product-to-channel fit matrix
+- Added portfolio-specific channel priorities, maturity gates, readiness assets and a channel scoring rubric.
+- Added a lightweight experiment protocol for tracking actual outcomes rather than forecasts.
+- Registered and linked the matrix from the distribution tracker and README.
+- No submissions or external posting performed.
