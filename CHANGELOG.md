@@ -185,3 +185,10 @@
 - Added a global coverage framework spanning Africa, Asia, Europe, the Americas, Oceania and cross-border channels.
 - Added language-market research prompts, broader channel taxonomy, country-level evidence capture and coverage status stages.
 - Clarified that the framework is designed to reduce geographic blind spots, not to claim exhaustive or live worldwide discovery.
+
+
+## 2026-11-23 — Global Engagement & Conversation Center prototype
+- Added an auxiliary prototype for qualifying external problem signals, drafting helpful public replies and optional private invitations, and recording session-local outcomes.
+- Added decision workflow, risk flags, evidence confidence, product/role mapping, copy actions and JSON/CSV exports.
+- Documented automation maturity gates and account/API policy constraints. No accounts, crawling, posting, messaging or automated follow-ups are connected.
+- Linked the prototype from the auxiliary Research Workbench only; it is not in the homepage or sitemap.
