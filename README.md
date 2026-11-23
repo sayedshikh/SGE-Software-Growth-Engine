@@ -85,8 +85,8 @@ Documentation and marketing assets in this repository are released under [CC BY 
 - Software Growth Engine (SGE) — guided research, opportunity and campaign workflow; active development.
 - CleanSubtitle AI — commercial listing exists; current release/package readiness requires verification.
 
-## Distribution
-- [Growth Intelligence & Opportunity worksheet](https://sayedshikh.github.io/SGE-Software-Growth-Engine/growth-opportunities.html) — evidence, audience/product/channel fit, competitive gap, risk and prioritization.
+## Public discovery & repository growth
+- [Public Discovery & Repository Growth Engine](https://sayedshikh.github.io/SGE-Software-Growth-Engine/public-discovery-repository-growth.html) — showcase repository readiness, commercial-source safety checklist, channel eligibility and owner-managed opportunity tracker.\n\n## Distribution\n- [Growth Intelligence & Opportunity worksheet](https://sayedshikh.github.io/SGE-Software-Growth-Engine/growth-opportunities.html) — evidence, audience/product/channel fit, competitive gap, risk and prioritization.
 - [Website search](https://sayedshikh.github.io/SGE-Software-Growth-Engine/site-search.html) — curated client-side page index with categories.
 - [Content & Search Intelligence Engine](https://sayedshikh.github.io/SGE-Software-Growth-Engine/content-intelligence.html) — topic/intent/evidence/gap worksheet.\n- [Enterprise-style SEO Operations Workspace](https://sayedshikh.github.io/SGE-Software-Growth-Engine/seo-operations.html) — audit register, evidence, prioritization and validation ledger.
 - [Search discoverability & SEO guide](https://sayedshikh.github.io/SGE-Software-Growth-Engine/search-discoverability.html) — technical/content checklist and owner-managed search-console guidance.
