@@ -147,3 +147,9 @@
 - Export graph inventory to CSV.
 - Linked from homepage, SEO Operations and Content Intelligence; registered in sitemap and README.
 - Explicitly not a live crawler; results depend on supplied link data.
+
+
+## 2026-11-23 — Content Cluster & Product Funnel Mapper
+- Added a local content-cluster worksheet connecting problem, guide, comparison, free tool and product page stages.
+- Added gap coverage summaries, evidence and notes fields, priorities, session-only data and CSV export.
+- Integrated with homepage, Content Intelligence, SEO Operations, internal link graph, sitemap and README. No live search-demand or crawl claims.
