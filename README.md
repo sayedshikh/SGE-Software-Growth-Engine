@@ -127,3 +127,8 @@ Documentation and marketing assets in this repository are released under [CC BY 
 ## Global Marketing & Distribution Opportunity Radar
 
 - [Global Distribution Radar](https://sayedshikh.github.io/SGE-Software-Growth-Engine/global-distribution-radar.html): session-local registry for software directories, launch platforms, reviewers, publishers, communities, partnerships, affiliates, PR and other channels. Records research provenance, audience/product fit, eligibility, cost, risk, priority, status, follow-up and outcomes. No submission, messaging or crawler automation is connected.
+
+
+## External-first Signal Intelligence
+
+- [External Signal Intelligence Engine](https://sayedshikh.github.io/SGE-Software-Growth-Engine/external-signal-intelligence.html): capture and qualify publicly observed, product-relevant signals involving potential buyers, users, decision-makers, independent professionals, leaders, advisors, connectors, partners, reviewers, publishers and other referral paths. Tracks source provenance, evidence type, relationship type, recurrence/corroboration, urgency, commercial relevance, fit, influence, actions, drafts and linked opportunities. Session-local manual ledger; not a live crawler or outreach automation.
