@@ -101,3 +101,10 @@
 - Added a browser-local campaign worksheet with CSV export; no analytics connection or remote storage is wired.
 - Registered and linked the page from the distribution tracker, README and sitemap.
 - No external campaign activity or analytics data was connected.
+
+
+## 2026-11-23 — Growth Experiment & Optimization Engine
+- Added a local experiment worksheet covering evidence, hypotheses, impact/confidence/effort scoring, risk, metrics, criteria, actual results and decisions.
+- Added CSV export and reset controls; no remote storage or experiment execution automation is wired.
+- Integrated the page into the distribution tracker, README and sitemap.
+- Prioritization score is explicitly heuristic and not a revenue forecast.
