@@ -132,3 +132,8 @@ Documentation and marketing assets in this repository are released under [CC BY 
 ## External-first Signal Intelligence
 
 - [External Signal Intelligence Engine](https://sayedshikh.github.io/SGE-Software-Growth-Engine/external-signal-intelligence.html): capture and qualify publicly observed, product-relevant signals involving potential buyers, users, decision-makers, independent professionals, leaders, advisors, connectors, partners, reviewers, publishers and other referral paths. Tracks source provenance, evidence type, relationship type, recurrence/corroboration, urgency, commercial relevance, fit, influence, actions, drafts and linked opportunities. Session-local manual ledger; not a live crawler or outreach automation.
+
+
+## Auxiliary research workspace
+
+An unlinked [Research Workbench](https://sayedshikh.github.io/SGE-Software-Growth-Engine/research-workbench/) consolidates internal planning worksheets and external-first discovery tools. It is intentionally excluded from the public homepage navigation and sitemap; selected worksheets use noindex/nofollow. **This is not private or secured**: GitHub Pages URLs remain publicly accessible. Do not store personal, sensitive, confidential or customer data there.
