@@ -172,3 +172,10 @@
 - Tracks source provenance, actor/relationship type, signal categories, evidence classification, recurrence, reliability, urgency, commercial relevance, product fit, influence, next actions, reply drafts and content/distribution/experiment links.
 - Added session-local records, heuristic scoring, CSV/JSON export and delete/clear controls; no live crawling, scraping, messaging or submission is connected.
 - Integrated homepage, sitemap and README.
+
+
+## 2026-11-23 — Auxiliary research workspace separation
+- Created a separate Research Workbench index consolidating research/discovery, distribution, outreach preparation, content and experiment tools.
+- Removed research-workbench tool links from the main homepage hero/navigation surface.
+- Excluded Search Opportunity Gap, Global Distribution Radar, External Signal Intelligence and Content Cluster Funnel from sitemap and added noindex/nofollow to these auxiliary worksheets.
+- Clarified that URL separation and crawler directives do not provide access control; GitHub Pages remains public and must not host sensitive data.
