@@ -1,0 +1,24 @@
+name: Static Site Audit
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main, sc124-portfolio-integration]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Run static audit
+        run: node tools/site-audit.mjs site
